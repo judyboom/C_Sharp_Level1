@@ -4,3 +4,10 @@ C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork2\Ho
 C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
 C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
 C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+E:\HomeWork22\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+E:\HomeWork22\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+E:\HomeWork22\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+E:\HomeWork22\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+E:\HomeWork22\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+E:\HomeWork22\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+E:\HomeWork22\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb

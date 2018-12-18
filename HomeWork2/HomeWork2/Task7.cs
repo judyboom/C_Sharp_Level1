@@ -38,20 +38,14 @@ namespace HomeWork2
         {
             if (a > b)
             {
-                if (a == b)
-                {
-                    return a;
-                }
                 return a + SumOfNumbers(a - 1, b);
             }
-            else
+            else if (a == b)
             {
-                if (a == b)
-                {
-                    return a;
-                }
-                return a + SumOfNumbers(a + 1, b);
+                return a;
             }
+            return a + SumOfNumbers(a + 1, b);
+            
         }
 
     }
