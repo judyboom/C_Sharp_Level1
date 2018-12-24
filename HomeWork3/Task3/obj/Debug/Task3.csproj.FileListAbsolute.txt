@@ -1,5 +1,0 @@
-C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork3\Task3\bin\Debug\Task3.exe.config
-C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork3\Task3\bin\Debug\Task3.exe
-C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork3\Task3\bin\Debug\Task3.pdb
-C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork3\Task3\obj\Debug\Task3.exe
-C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork3\Task3\obj\Debug\Task3.pdb
