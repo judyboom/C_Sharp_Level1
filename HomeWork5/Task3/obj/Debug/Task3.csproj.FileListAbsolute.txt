@@ -1,0 +1,7 @@
+E:\AintWork\Обучение\new\HomeWork5\Task3\bin\Debug\Task3.exe.config
+E:\AintWork\Обучение\new\HomeWork5\Task3\bin\Debug\Task3.exe
+E:\AintWork\Обучение\new\HomeWork5\Task3\bin\Debug\Task3.pdb
+E:\AintWork\Обучение\new\HomeWork5\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+E:\AintWork\Обучение\new\HomeWork5\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\AintWork\Обучение\new\HomeWork5\Task3\obj\Debug\Task3.exe
+E:\AintWork\Обучение\new\HomeWork5\Task3\obj\Debug\Task3.pdb
