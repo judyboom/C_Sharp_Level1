@@ -1,0 +1,13 @@
+E:\AintWork\Обучение\new\HomeWork5\Task2\bin\Debug\Task2.exe.config
+E:\AintWork\Обучение\new\HomeWork5\Task2\bin\Debug\Task2.exe
+E:\AintWork\Обучение\new\HomeWork5\Task2\bin\Debug\Task2.pdb
+E:\AintWork\Обучение\new\HomeWork5\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+E:\AintWork\Обучение\new\HomeWork5\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\AintWork\Обучение\new\HomeWork5\Task2\obj\Debug\Task2.exe
+E:\AintWork\Обучение\new\HomeWork5\Task2\obj\Debug\Task2.pdb
+C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork5\Task2\bin\Debug\Task2.exe.config
+C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork5\Task2\bin\Debug\Task2.exe
+C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork5\Task2\bin\Debug\Task2.pdb
+C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork5\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork5\Task2\obj\Debug\Task2.exe
+C:\Users\Юлько\Documents\Visual Studio 2015\Projects\C#lessons\HomeWork5\Task2\obj\Debug\Task2.pdb
